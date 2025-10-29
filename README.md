@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shang Lin — AI & Data Science Engineer  
+#  Hi, I'm Shang Lin — AI & Data Science Engineer  
 
 > AI & Data Science Engineer specialized in LLM systems, RAG, and financial analytics.  
 > I build AI-powered automation platforms that connect data pipelines, language models, and real-world investment decisions.

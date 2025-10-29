@@ -1,4 +1,4 @@
-# 🎓 Certifications  
+# Certifications  
 
 | Certificate | Issuer | Year | Credential |
 |--------------|--------|------|-------------|

@@ -1,4 +1,4 @@
-# 📊 Grostock — AI Investment Advisor Platform (AI 投顧平台)
+# Grostock — AI Investment Advisor Platform (AI 投顧平台)
 **GitHub Repo:** [🔗 Open Project](https://github.com/ShangLin1606/Grostock)
 
 Grostock is an enterprise-grade **AI-powered investment advisor** that integrates RAG, GraphRAG, Dagster, and multi-agent orchestration for fully automated quantitative research and trading decision-making.  
@@ -6,14 +6,14 @@ Grostock 是一個結合 **RAG、GraphRAG、Dagster、自動化排程與多代�
 
 ---
 
-## 🧩 Overview
+## Overview
 This system automates the entire data-to-decision pipeline for quantitative investment:  
 from daily market data ingestion, ML model training, and portfolio analysis,  
 to AI-driven strategy recommendation and PDF report generation.  
 
 ---
 
-## 🚀 Objectives
+## Objectives
 - Create a unified AI platform for **quant strategy research and reporting**.  
 - Use **multi-agent AI decision routing** to handle RAG and financial logic dynamically.  
 - Enable **retrain-on-performance-drop** automation for daily models.  
@@ -21,7 +21,7 @@ to AI-driven strategy recommendation and PDF report generation.
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 Frontend (React + Vite)
 ↓
@@ -35,7 +35,7 @@ Grafana / Prometheus / ELK (Monitoring)
 
 ---
 
-## 💡 Key Features
+## Key Features
 - **Multi-Agent Decision Flow:** auto-selects FinanceAgent / SentimentAgent / RAG / GraphRAG.  
 - **RAG Pipeline:** combines textual insights with database-driven metrics.  
 - **Stacking Model:** LGBM + XGB + MLP + SVC → Logistic Regression meta-layer.  
@@ -44,21 +44,21 @@ Grafana / Prometheus / ELK (Monitoring)
 
 ---
 
-## 🧪 Results & Achievements
+## Results & Achievements
 - Reduced manual report generation time by 90%.  
 - Model ensemble accuracy +8% after Bayesian tuning.  
 - Integrated 20+ strategy portfolios in production.
 
 ---
 
-## 👤 My Contributions
+## My Contributions
 - Architected multi-agent logic & Dagster pipelines.  
 - Implemented database schema for strategies, AUM, and audit logs.  
 - Designed monitoring dashboards and CI/CD pipelines.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 FastAPI • Dagster • PostgreSQL • Milvus • LangChain • GraphRAG • PyTorch • Optuna • React • Grafana • Docker
 
 ---

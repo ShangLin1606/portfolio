@@ -1,4 +1,4 @@
-# 📈 BDSE Stock Forecast Platform — Multi-Model US Stock Prediction (美股漲跌預測平台)
+# BDSE Stock Forecast Platform — Multi-Model US Stock Prediction (美股漲跌預測平台)
 **GitHub Repo:** [🔗 Open Project](./BDSE34_第二組_美股股價AI預測.pdf)
 
 This project is a **multi-model ensemble forecasting system** predicting U.S. stock trends using RNN, SVM, and MLP,  
@@ -7,13 +7,13 @@ optimized via Bayesian tuning and GPU acceleration (cuML).
 
 ---
 
-## 🧩 Overview
+## Overview
 Built as part of the BDSE Data Science Program, this project predicts stock direction across sectors using technical and macroeconomic indicators,  
 and deploys results to an interactive visualization web application.
 
 ---
 
-## 🚀 Objectives
+## Objectives
 - Combine multiple ML models (RNN, SVM, MLP) into an ensemble stacking architecture.  
 - Replace GridSearch with **Bayesian Optimization** for hyperparameter tuning.  
 - Accelerate model training using NVIDIA RAPIDS (cuDF / cuML).  
@@ -21,14 +21,14 @@ and deploys results to an interactive visualization web application.
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 Data Collection (Yahoo Finance) → Feature Engineering → Multi-Model Training → Stacking → Flask Web App
 
 
 ---
 
-## 💡 Key Features
+## Key Features
 - **RNN Temporal Model:** captures time dependencies in stock series.  
 - **SVM & MLP Classifiers:** capture nonlinear decision boundaries.  
 - **Stacking Layer:** Logistic Regression meta-model integrates base outputs.  
@@ -37,14 +37,14 @@ Data Collection (Yahoo Finance) → Feature Engineering → Multi-Model Training
 
 ---
 
-## 🧪 Results & Achievements
+## Results & Achievements
 - Accuracy: **80% (Finance)**, **74% (Tech)**  
 - End-to-end pipeline deployed on Flask web app.  
 - Received BDSE Program Excellence recognition (Top 3 team).
 
 ---
 
-## 👤 My Contributions
+## My Contributions
 - Led data preprocessing and model ensemble integration.  
 - Implemented Bayesian optimization pipeline with Optuna.  
 - Integrated dashboard front-end for model performance comparison.

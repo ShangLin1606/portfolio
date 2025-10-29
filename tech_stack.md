@@ -1,4 +1,4 @@
-# 🧠 Tech Stack Overview  
+#  Tech Stack Overview  
 
 ## AI / Machine Learning
 LangChain • GraphRAG • PyTorch • Transformers • Scikit-learn • Phidata • RAG • AIAgent

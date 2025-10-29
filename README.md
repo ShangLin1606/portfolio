@@ -6,7 +6,7 @@
 ---
 
 ##  Career Profile / Key Highlights
-- 1+ years experience in AI and Data Engineering across quant finance and enterprise automation.  
+- 2+ years experience in AI and Data Engineering across quant finance and enterprise automation.  
 - Built multi-agent RAG systems for financial analysis, document QA, and legal automation.  
 - Expert in building end-to-end MLOps pipelines with Dagster, LangChain, and Docker.
 

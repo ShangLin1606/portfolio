@@ -1,59 +1,36 @@
-# 👋 Hi, I'm Shang Lin — AI & Data Science Engineer
+# 👋 Hi, I'm Shang Lin — AI & Data Science Engineer  
 
-I design and implement **AI-powered automation systems** that combine NLP, quantitative analysis, and large-scale data engineering.  
-My work bridges **language models, financial data pipelines, and intelligent RAG systems**.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Role |
-|----------|--------------|-------------|------|
-| [**Grostock**](https://github.com/ShangLin1606/Grostock) | Full-stack AI quant investment platform integrating data pipelines, multi-agent orchestration, and automatic portfolio reporting. | Python, Dagster, PostgreSQL, PyTorch, Flask, Agents | Creator / Lead |
-| [**NeuroQuery**](https://github.com/ShangLin1606/NeuroQuery) | Neural-based financial Q&A dashboard using fine-tuned language models and semantic retrieval. | Flask, HuggingFace, SentenceTransformer, ChromaDB | Lead Developer |
-| [**NLP News DL Model**](https://github.com/ShangLin1606/nlp_news_dl_model) | Deep learning NLP pipeline for news sentiment and topic classification to predict market trends. | PyTorch, Transformers, Polars, Pandas | Developer |
-| [**Stock Visualization System**](https://github.com/ShangLin1606/Stock) | Interactive dashboard for stock analysis and technical indicators with live market visualization. | Plotly Dash, SQL, TA-Lib, Flask | Data Engineer |
-| [**Yushan AI Cup — RAG Document QA System**](https://github.com/ShangLin1606/yushan_ai_cup) | Document QA system for E.Sun AI Cup using OCR→LLM→FAISS→GPT-4o-mini retrieval pipeline. Supports FAQ/finance/insurance categories. | Python, LangChain, FAISS, m3e-large, pdfplumber, pytesseract | Data Scientist |
-| [**BDSE US Stock Forecast Platform**](https://github.com/dennisNism/BDSE34_Team2_20) | US stock trend prediction web platform using RNN, SVM, and stacking ensemble, optimized with Bayesian tuning and GPU acceleration. | Python, MySQL, cuDF, cuML, Optuna | Core Modeler |
-| **LegalDocGen** | LLM-based AI legal document & evidence letter generation system with RAG / GraphRAG retrieval, TinyLLaMA fine-tuning, and Streamlit UI. | LangChain, TinyLLaMA, MLflow, Docker, Streamlit, GraphRAG | AI Engineer |
+> AI & Data Science Engineer specialized in LLM systems, RAG, and financial analytics.  
+> I build AI-powered automation platforms that connect data pipelines, language models, and real-world investment decisions.
 
 ---
 
-## 🧠 Skills & Tools
-
-**Languages:** Python, SQL, JavaScript  
-**ML / DL:** PyTorch, Scikit-learn, Transformers, RAG, LLM Fine-tuning  
-**Data:** Pandas, Polars, PostgreSQL, MongoDB, Dagster  
-**Web / Infra:** Flask, Docker, Nginx, GitLab CI/CD, Streamlit  
-**Visualization:** Plotly, Highcharts, Seaborn, Matplotlib  
-**MLOps:** MLflow, GitHub Actions, Docker Compose  
+##  Career Profile / Key Highlights
+- 1+ years experience in AI and Data Engineering across quant finance and enterprise automation.  
+- Built multi-agent RAG systems for financial analysis, document QA, and legal automation.  
+- Expert in building end-to-end MLOps pipelines with Dagster, LangChain, and Docker.
 
 ---
 
-## 🎓 Certifications
+## Featured Projects
 
-| Certificate | Issuer | Year |
-|--------------|--------|------|
-| IBM Data Science Professional Certificate | IBM / Coursera | 2024 |
-| Deep Learning Specialization | DeepLearning.AI | 2024 |
-| Google Data Analytics Certificate | Google | 2024 |
+| Category | Project | Description | GitHub |
+|-----------|----------|--------------|---------|
+| AI Systems | [Grostock](./projects/AI_SYSTEMS/Grostock.md) | AI investment advisor integrating RAG + GraphRAG + Dagster + multi-agent decision system. | [🔗 Repo](https://github.com/ShangLin1606/Grostock) |
+| Legal AI | [LegalDocGen](./projects/AI_SYSTEMS/LegalDocGen.md) | AI legal document & evidence letter generator with LangChain and TinyLLaMA. | [🔗 Repo](https://github.com/ShangLin1606/LegalDocGen) |
+| Financial NLP | [NeuroQuery](./projects/AI_SYSTEMS/NeuroQuery.md) | Financial Q&A system powered by fine-tuned LLMs and semantic retrieval. | [🔗 Repo](https://github.com/ShangLin1606/NeuroQuery) |
+| NLP | [news-summarizer-tw](./projects/DATA_SCIENCE/news-summarizer-tw.md) | Deep-learning pipeline predicting market sentiment from news. | [🔗 Repo](https://github.com/ShangLin1606/news-summarizer-twl) |
+| Forecasting | [BDSE Stock Forecast](./projects/DATA_SCIENCE/BDSE_Stock_Forecast.md) | RNN + SVM ensemble predictor optimized with Optuna and cuML. | [🔗 Repo](https://github.com/dennisNism/BDSE34_Team2_20) |
+| Competition | [Yushan AI Cup](./projects/DATA_SCIENCE/Yushan_AI_Cup.md) | OCR → Embedding → RAG → LLM QA pipeline for E.Sun AI Cup. | [🔗 Repo](https://github.com/ShangLin1606/yushan_ai_cup) |
 
-More details → [certifications.md](./certifications.md)
-
----
-
-## 📄 Resume
-- [📘 View Resume (Markdown)](./resume.md)  
-- [📄 Download PDF](./assets/resume/ShangLin_Resume.pdf)
 
 ---
 
-## 📫 Contact
-📧 **Email:** your_email@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🧭 [GitHub](https://github.com/ShangLin1606)
+##  Skills & Tools
+Python • SQL • PyTorch • LangChain • Dagster • PostgreSQL • Milvus • Neo4j • Flask • FastAPI • React • Streamlit • Docker • MLflow • Grafana • ELK • GitLab CI/CD • Phidata • LLM • MLOPS • DEVOPS • RAG • AIAgent 
 
 ---
 
-> _"Data and AI are only meaningful when they empower human decisions."_  
-> — **Shang Lin**
+[Email](shanglin8471@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/leon04572)  
+[GitHub](https://github.com/ShangLin1606)
